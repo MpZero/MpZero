@@ -3,7 +3,7 @@
 Soy un desarrollador fullstack apasionado por crear aplicaciones web eficientes y escalables. Con experiencia en el desarrollo tanto del frontend como del backend, disfruto trabajando con tecnologías modernas para construir soluciones que impactan positivamente la vida de los usuarios.
 
 ### Un poco más sobre mí:
-- 🌱 Actualmente estoy aprendiendo React, SQLs y NodeJS
+- 🌱 Actualmente estoy aprendiendo React, SQLs y Node.js
 - 💬 ¡Hablemos sobre desarrollo web!
 - 📫 Puedes contactarme en: [LinkedIn](www.linkedin.com/in/gonzalo-agustin-gomez-b98709318) 
 - 📬 Por correo: gonzalo.a.gomez22@gmail.com
